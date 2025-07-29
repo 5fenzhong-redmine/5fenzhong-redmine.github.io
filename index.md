@@ -13,8 +13,8 @@
 
 ### 概要介紹
 
-1. [5 分鐘快速上手 Redmine：概要介紹](/overview/)
+1. [5 分鐘快速上手 Redmine：概要介紹](overview.md)
 
 ### 基本操作
 
-1. [5分鐘快速上手Redmine：基本操作](/quick-start/)
+1. [5分鐘快速上手Redmine：基本操作](quick-start.md)
