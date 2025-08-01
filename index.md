@@ -1,4 +1,7 @@
-# 5 分鐘快速上手 Redmine
+---
+layout: page
+title: 5 分鐘快速上手 Redmine
+---
 
 「5 分鐘快速上手 Redmine」系列文章，旨在用簡單易懂的方式介紹開放原始碼的議題管理系統 Redmine。每篇文章的長度大約只需 5 分鐘閱讀時間，讓您輕鬆掌握 Redmine 的基礎與實用功能。
 
@@ -17,4 +20,5 @@
 
 ### 基本操作
 
-1. [5分鐘快速上手Redmine：基本操作](quick-start.md)
+1. [5 分鐘快速上手 Redmine：基本操作](quick-start.md)
+1. [5 分鐘快速上手 Redmine：「議題」功能](issue.md)

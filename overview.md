@@ -1,6 +1,7 @@
-
-# 5 分鐘快速上手 Redmine：概要介紹
-
+---
+layout: page
+title: 5 分鐘快速上手 Redmine：概要介紹
+---
 
 本篇文章將為您解說開放原始碼的課題管理系統 Redmine 的基本概要。
 

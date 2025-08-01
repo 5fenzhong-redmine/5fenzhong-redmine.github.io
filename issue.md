@@ -1,5 +1,7 @@
-
-# 5 分鐘快速上手 Redmine：「議題」功能
+---
+layout: page
+title: 5 分鐘快速上手 Redmine：「議題」功能
+---
 
 本文將介紹開源課題管理系統 Redmine 的核心功能：「議題」。
 
