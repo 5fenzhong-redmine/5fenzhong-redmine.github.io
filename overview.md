@@ -1,6 +1,8 @@
 ---
 layout: page
-title: 5 分鐘快速上手 Redmine：概要介紹
+title: 5分鐘快速上手 Redmine：概要介紹
+date: 2025-08-05
+image: /images/ogp@2x.png
 ---
 
 本篇文章將為您解說開放原始碼的課題管理系統 Redmine 的基本概要。
@@ -9,14 +11,14 @@ title: 5 分鐘快速上手 Redmine：概要介紹
 
 ## 目錄
 
-- 什麼是 Redmine
-- Redmine 的主要功能
-- 使用 Redmine 的優勢
-- Redmine 的應用場景
+- [什麼是 Redmine](#about)
+- [Redmine 的主要功能](#feature)
+- [使用 Redmine 的優勢](#merit)
+- [Redmine 的應用場景](#resources)
 
 ---
 
-## 什麼是 Redmine
+## 什麼是 Redmine {#about}
 
 ![](images/overview-1@2x.png)
 
@@ -32,7 +34,7 @@ Redmine 的用途不僅限於軟體開發。它同樣適用於各種業務專案
 
 ---
 
-## Redmine 的主要功能
+## Redmine 的主要功能 {#feature}
 
 ### 議題（Issue）
 
@@ -74,7 +76,7 @@ Redmine 可與 Subversion、Git 等版本控制系統進行整合。您可以在
 
 ---
 
-## 使用 Redmine 的優勢
+## 使用 Redmine 的優勢 {#merit}
 
 ### 作為開放原始碼軟體，可自由使用
 
@@ -94,7 +96,7 @@ Redmine 是開放原始碼軟體，任何人都可以自由下載、安裝並使
 
 ---
 
-## Redmine 的應用場景
+## Redmine 的應用場景 {#resources}
 
 Redmine 擁有豐富的功能，透過靈活的組合，可廣泛應用於各種業務場景。
 

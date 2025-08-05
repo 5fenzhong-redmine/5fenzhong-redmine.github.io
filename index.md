@@ -14,11 +14,35 @@ title: 5 分鐘快速上手 Redmine
 
 ## 目錄
 
-### 概要介紹
+### 1. 概要介紹
 
 1. [5 分鐘快速上手 Redmine：概要介紹](overview.md)
 
-### 基本操作
+### 2. 基本操作
 
-1. [5 分鐘快速上手 Redmine：基本操作](quick-start.md)
-1. [5 分鐘快速上手 Redmine：「議題」功能](issue.md)
+1. [5分鐘快速上手 Redmine：基本操作](quick-start.md)
+1. [5分鐘快速上手 Redmine：「議題」功能](issue.md)
+1. [5分鐘快速上手 Redmine：「甘特圖」功能](gantt-chart.md)
+1. [5分鐘快速上手 Redmine：「版本藍圖」功能](roadmap.md)
+1. [5分鐘快速上手 Redmine：「Wiki」功能](wiki.md)
+1. [5分鐘快速上手 Redmine：郵件通知設定](email-notifications.md)
+1. [5分鐘快速上手 Redmine：「監看」功能](watch.md)
+1. [5分鐘快速上手 Redmine：「自訂查詢」功能](custom-queries.md)
+
+### 3. 管理
+
+1. [5分鐘快速上手 Redmine：初始設定](initial-settings.md)
+1. [5分鐘快速上手 Redmine：專案設定](project.md)
+1. [5分鐘快速上手 Redmine：工作流程設定](workflow.md)
+1. [5分鐘快速上手 Redmine：用戶管理](users.md)
+1. [5分鐘快速上手 Redmine：書面主題設定](theme.md)
+
+## 4. 発展
+
+1. [5分鐘快速上手 Redmine：自訂欄位](custom-fields.md)
+1. [5分鐘快速上手 Redmine：「工時追蹤」功能](time-tracking.md)
+1. [5分鐘快速上手 Redmine：匯入／匯出功能](import-export.md)
+1. [5分鐘快速上手 Redmine：「文件」功能](documents.md)
+1. [5分鐘快速上手 Redmine：「新聞」功能](news.md)
+1. [5分鐘快速上手 Redmine：「討論區（論壇）」功能](forums.md)
+1. [5分鐘快速上手 Redmine：版本控管與版本庫連結功能](repository.md)
