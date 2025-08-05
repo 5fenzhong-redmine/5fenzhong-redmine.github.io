@@ -24,6 +24,10 @@ authors:
     email: lv@farend.jp
   - name: Akihiro Kurotani
     email: kurod1492@gmail.com
+sponsor:
+  name: My Redmine
+  url: "https://www.redminecloud.net/"
+  logo: "/images/myredmine-logo-hz.png"
 description: >- # this means to ignore newlines until "baseurl:"
   「5 分鐘快速上手 Redmine」系列文章，旨在用簡單易懂的方式介紹開放原始碼的議題管理系統 Redmine。
   每篇文章的長度大約只需 5 分鐘閱讀時間，讓您輕鬆掌握 Redmine 的基礎與實用功能。

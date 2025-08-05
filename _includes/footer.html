@@ -33,8 +33,25 @@
         </p>
       </div>
       {% endif %}
-      </div>
 
+      {% if site.sponsor %}
+      <div class="sponsor-info">
+        {% if site.sponsor.logo %}
+          <p>
+            Sponsored by
+            <a href="{{ site.sponsor.url }}">
+              <img src="{{ site.sponsor.logo }}" alt="{{ site.sponsor.name }} logo" />
+            </a>
+          </p>
+        {% else %}
+          <p>
+            Sponsored by <a href="{{ site.sponsor.url }}">{{ site.sponsor.name }}</a>
+          </p>
+        {% endif %}
+      </div>
+      {% endif %}
+
+      </div>
   </div>
 
 </footer>
