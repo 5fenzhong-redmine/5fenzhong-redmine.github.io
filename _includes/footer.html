@@ -38,7 +38,7 @@
       <div class="sponsor-info">
         {% if site.sponsor.logo %}
           <p>
-            Sponsored by
+            Sponsored by <a href="{{ site.sponsor.url }}">{{ site.sponsor.name }}</a>, a cloud hosting service for Redmine.<br>
             <a href="{{ site.sponsor.url }}">
               <img src="{{ site.sponsor.logo }}" alt="{{ site.sponsor.name }} logo" />
             </a>
