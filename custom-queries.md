@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 5分鐘快速上手 Redmine：「自訂查詢」功能
+date: 2025-08-05
+image: /images/ogp@2x.png
 ---
 
 本文將為您簡單說明開源專案管理系統 Redmine 的「自訂查詢」功能。

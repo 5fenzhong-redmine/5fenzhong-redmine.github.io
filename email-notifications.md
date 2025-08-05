@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 5分鐘快速上手 Redmine：郵件通知設定
+date: 2025-08-05
+image: /images/ogp@2x.png
 ---
 
 在這篇文章中，我們將介紹 Redmine 的郵件通知功能，包括系統會發送哪些類型的郵件、觸發時機、設定方式，以及能幫助團隊掌握期限的提醒功能。

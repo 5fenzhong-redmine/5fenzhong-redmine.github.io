@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 5分鐘快速上手 Redmine：「Wiki」功能
+date: 2025-08-05
+image: /images/ogp@2x.png
 ---
 
 本文將介紹開源課題管理系統 Redmine 的「Wiki」功能。

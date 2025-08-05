@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 5分鐘快速上手 Redmine：初始設定
+date: 2025-08-05
+image: /images/ogp@2x.png
 ---
 
 本文將為您簡單說明在安裝好開源課題管理系統 Redmine 之後，應進行的初始設定。
