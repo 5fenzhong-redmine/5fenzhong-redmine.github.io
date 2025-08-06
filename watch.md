@@ -3,6 +3,7 @@ layout: page
 title: 5分鐘快速上手 Redmine：「監看」功能
 date: 2025-08-05
 image: /images/ogp@2x.png
+author: lv@farend.jp
 ---
 
 本文將介紹開源課題管理系統 Redmine 的「監看」功能。
@@ -88,7 +89,5 @@ Redmine 提供一個稱為「自動監看」的功能，讓你可以自動監看
 - 「我的帳戶」→「自動監看」，勾選對應選項即可啟用。
 
 ![](images/watch-06@2x.png)
-
----
 
 Redmine 的監看功能是一項能有效掌握工作動向的通知機制。善加運用此功能，將有助於您即時掌握專案的最新進展，建議您積極活用。

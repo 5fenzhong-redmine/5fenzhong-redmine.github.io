@@ -3,6 +3,7 @@ layout: page
 title: 5分鐘快速上手Redmine：基本操作
 date: 2025-08-05
 image: /images/ogp@2x.png
+author: lv@farend.jp
 ---
 
 本文將介紹開源課題管理系統 Redmine 的基本操作方法，讓您能在短時間內了解介面構成與核心功能。

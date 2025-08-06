@@ -3,6 +3,7 @@ layout: page
 title: 5分鐘快速上手 Redmine：書面主題設定
 date: 2025-08-05
 image: /images/ogp@2x.png
+author: lv@farend.jp
 ---
 
 本文將為您簡單介紹如何在開源議題管理系統 Redmine 中進行書面主題設定。

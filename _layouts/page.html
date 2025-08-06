@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+
+  {% if page.date %}
+    {{ page.date }}
+  {% endif %}
+  
+  {% if page.author %}
+  {% assign author_info = site.authors | where: "email", page.author | first %}
+    {% if author_info %}
+        {% assign email_hash = author_info.email | strip | downcase | md5 %}
+<!--        <img class="gravatar" src="https://www.gravatar.com/avatar/{{ email_hash }}?s=40&d=retro" alt="{{ author_info.name }}" /> -->
+        <span class="author-name">{{ author_info.name | escape }}</span>
+    {% endif %}
+  {% endif %}
+
+  <hr>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>

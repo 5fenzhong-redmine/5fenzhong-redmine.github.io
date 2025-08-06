@@ -3,6 +3,7 @@ layout: page
 title: 5分鐘快速上手 Redmine：自訂欄位
 date: 2025-08-05
 image: /images/ogp@2x.png
+author: lv@farend.jp
 ---
 
 本文將介紹開源課題管理系統 Redmine 的「自訂欄位」。

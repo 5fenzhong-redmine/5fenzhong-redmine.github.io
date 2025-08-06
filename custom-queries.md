@@ -3,6 +3,7 @@ layout: page
 title: 5分鐘快速上手 Redmine：「自訂查詢」功能
 date: 2025-08-05
 image: /images/ogp@2x.png
+author: lv@farend.jp
 ---
 
 本文將為您簡單說明開源專案管理系統 Redmine 的「自訂查詢」功能。
@@ -94,7 +95,5 @@ Redmine 提供「帳戶首頁」功能，可將常用資訊集中顯示。預設
 這樣一來，您就可以在「帳戶首頁」中看到該查詢對應的議題清單。區塊標題同時也是一個連結，可快速前往該查詢結果畫面。
 
 ![](images/custom-queries-12@2x.png)
-
----
 
 Redmine 的自訂查詢功能能幫助您快速找出所需議題，搭配帳戶首頁一起使用更能提高工作效率，建議積極加以運用。
