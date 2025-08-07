@@ -5,3 +5,22 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+/* return top page link container */
+.return-top-container {
+  text-align: center;
+}
+
+/* return top page link */
+.return-top-link {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #e67e22;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 25px;
+  font-size: 1rem;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
