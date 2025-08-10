@@ -39,7 +39,7 @@ image: /images/ogp@2x.png
 1. [5分鐘快速上手 Redmine：用戶管理](users.md)
 1. [5分鐘快速上手 Redmine：書面主題設定](theme.md)
 
-## 4. 発展
+### 4. 発展
 
 1. [5分鐘快速上手 Redmine：自訂欄位](custom-fields.md)
 1. [5分鐘快速上手 Redmine：「工時追蹤」功能](time-tracking.md)
