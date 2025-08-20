@@ -16,11 +16,11 @@ image: /images/ogp@2x.png
 
 ## 目錄
 
-### 1. 概要介紹
+### 1. 概要介紹編
 
 1. [5分鐘快速上手 Redmine：概要介紹](overview.md)
 
-### 2. 基本操作
+### 2. 基本操作編
 
 1. [5分鐘快速上手 Redmine：基本操作](quick-start.md)
 1. [5分鐘快速上手 Redmine：「議題」功能](issue.md)
@@ -31,7 +31,7 @@ image: /images/ogp@2x.png
 1. [5分鐘快速上手 Redmine：「監看」功能](watch.md)
 1. [5分鐘快速上手 Redmine：「自訂查詢」功能](custom-queries.md)
 
-### 3. 管理
+### 3. 管理編
 
 1. [5分鐘快速上手 Redmine：初始設定](initial-settings.md)
 1. [5分鐘快速上手 Redmine：專案設定](project.md)
@@ -39,7 +39,7 @@ image: /images/ogp@2x.png
 1. [5分鐘快速上手 Redmine：用戶管理](users.md)
 1. [5分鐘快速上手 Redmine：書面主題設定](theme.md)
 
-### 4. 発展
+### 4. 発展編
 
 1. [5分鐘快速上手 Redmine：自訂欄位](custom-fields.md)
 1. [5分鐘快速上手 Redmine：「工時追蹤」功能](time-tracking.md)
